@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/24h.png</file>
+    </qresource>
+</RCC>
